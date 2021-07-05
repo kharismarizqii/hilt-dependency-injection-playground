@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Dependency Injection Playground</string>
+    <string name="engine_started">engine started</string>
 </resources>
